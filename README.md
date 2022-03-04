@@ -10,7 +10,7 @@
 
 # What's on my GitHub
 
-* **Tool**🔨
+* 🔨 **Tool**
     * [Front-end performance tester](https://github.com/ludotosk/front-end-benchmark)
 * **Biggest project**
     * [Cash registrer web manager](https://github.com/ludotosk/gestore-cassa-custom)
