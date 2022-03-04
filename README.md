@@ -12,7 +12,7 @@
 
 * **Tool**🔨
     * [Front-end performance tester](https://github.com/ludotosk/front-end-benchmark)
-* **Biggest proJect**
+* **Biggest project**
     * [Cash registrer web manager](https://github.com/ludotosk/gestore-cassa-custom)
 * **SEO case study**
     * [My website](https://github.com/ludotosk/corsi-universitari)
