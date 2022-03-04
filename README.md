@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **toscanoludovico@gmail.com**
 
-# What's on my GitHub
+<h1 align="center">What's on my GitHub</h1>
 
 * 🔨 **Tool**
     * [Front-end performance tester](https://github.com/ludotosk/front-end-benchmark)
