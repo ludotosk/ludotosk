@@ -10,10 +10,10 @@
 
 # What's on my GitHub
 
-*Tool🔨
-    *[Front-end performance tester](https://github.com/ludotosk/front-end-benchmark)
-*Biggest progect
-    *[Cash registrer web manager](https://github.com/ludotosk/gestore-cassa-custom)
-*SEO case study
-    *[My website](https://github.com/ludotosk/corsi-universitari)
-    *[API server of my website](https://github.com/ludotosk/json-corsi-fastify)
+* **Tool**🔨
+    * [Front-end performance tester](https://github.com/ludotosk/front-end-benchmark)
+* **Biggest progect**
+    * [Cash registrer web manager](https://github.com/ludotosk/gestore-cassa-custom)
+* **SEO case study**
+    * [My website](https://github.com/ludotosk/corsi-universitari)
+    * [API server of my website](https://github.com/ludotosk/json-corsi-fastify)
