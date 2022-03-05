@@ -12,6 +12,7 @@
 
 * 🔨 **Tool**
     * [Front-end performance tester](https://github.com/ludotosk/front-end-benchmark)
+    * [Scraper for the data of my website](https://github.com/ludotosk/scraper-universitaly)
 * **Biggest project**
     * [Cash registrer web manager](https://github.com/ludotosk/gestore-cassa-custom)
 * **SEO case study**
