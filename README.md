@@ -17,6 +17,6 @@
     * [Cash registrer web manager](https://github.com/ludotosk/gestore-cassa-custom)
 * **SEO case study**
     * [My website](https://github.com/ludotosk/corsi-universitari)
-    * [API server of my website](https://github.com/ludotosk/json-corsi-fastify) - [dockerized version](https://github.com/ludotosk/docker-api)
+    * [API server of my website](https://github.com/ludotosk/json-corsi-fastify) - [Dockerized version](https://github.com/ludotosk/docker-api)
 * **Youtube project**
     * [Repo of scraping tutorial video](https://github.com/ludotosk/tutorial-scraping)
