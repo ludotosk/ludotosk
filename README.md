@@ -18,5 +18,7 @@
 * **SEO case study**
     * [My website](https://github.com/ludotosk/corsi-universitari)
     * [API server of my website](https://github.com/ludotosk/json-corsi-fastify) - [Dockerized version](https://github.com/ludotosk/docker-api)
+* **Chat bot**
+    * [Telegram chat bot in python](https://github.com/ludotosk/bot-corsi)
 * **Youtube project**
     * [Repo of scraping tutorial video](https://github.com/ludotosk/tutorial-scraping)
