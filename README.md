@@ -2,7 +2,7 @@
 <h3 align="center">A very passionate developer since my youngest age, from Italy.</h3>
 
 - 🔭 I’m currently working on **brushing up my skills**
-- 🌱 I’m currently learning **I'm earning a beacelor degree in cyber security in University of Milan**
+- 🌱 I’m currently earning a **master's degree in data science and marketing at NOVA IMS in Lisbon**
  
 - 💬 Ask me about **SEO, Javascript, Vue.js, Linux, Networking stuff**
 
@@ -12,13 +12,10 @@
 
 * 🔨 **Tool**
     * [Front-end performance tester](https://github.com/ludotosk/front-end-benchmark)
-    * [Scraper for the data that I use on my website](https://github.com/ludotosk/scraper-universitaly)
 * **Biggest project**
     * [Cash registrer web manager](https://github.com/ludotosk/gestore-cassa-custom)
 * **SEO case study**
     * [My website](https://github.com/ludotosk/corsi-universitari)
-    * [API server of my website](https://github.com/ludotosk/json-corsi-fastify) - [Dockerized version](https://github.com/ludotosk/docker-api)
-* **Chat bot**
-    * [Telegram chat bot in python](https://github.com/ludotosk/bot-corsi)
+    * [API server of my website](https://github.com/ludotosk/json-corsi-fastify)
 * **Youtube project**
     * [Repo of scraping tutorial video](https://github.com/ludotosk/tutorial-scraping)
