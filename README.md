@@ -17,5 +17,7 @@
 * **SEO case study**
     * [My website](https://github.com/ludotosk/corsi-universitari)
     * [API server of my website](https://github.com/ludotosk/json-corsi-fastify)
+* **Data Analysis**
+    * [Small data analysis of my website made with polars](https://github.com/ludotosk/query-analysis-corsiuniversitari)
 * **Youtube project**
     * [Repo of scraping tutorial video](https://github.com/ludotosk/tutorial-scraping)
