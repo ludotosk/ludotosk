@@ -2,7 +2,7 @@
 <h3 align="center">A very passionate developer since my youngest age, from Italy.</h3>
 
 - 🔭 I’m currently working on **brushing up my skills**
-- 🌱 I’m currently earning a **master's degree in data science and marketing at NOVA IMS in Lisbon**
+- 🌱 I’m currently learning **I'm earning a beacelor degree in cyber security in University of Milan**
  
 - 💬 Ask me about **SEO, Javascript, Vue.js, Linux, Networking stuff**
 
