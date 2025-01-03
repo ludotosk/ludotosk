@@ -2,8 +2,9 @@
 <h3 align="center">A very passionate developer since my youngest age, born in 1997 in Aosta Valley, Italy.</h3>
 
 - 💼 I’m currently working as a **GIS developer**.
-- 📖 I'm an MSc in **Data Science for Marketing** at **Nova IMS** and a BSc in **Cyber Security** at the **University of Milan**.
-- 🌱 I'm growing a community related to my website **[corsiuniversitari.info](www.corsiuniversitari.info)**
+- 📖 I'm an MSc in **Data Science for Marketing** at **Nova IMS** with a [thesis](http://hdl.handle.net/10362/174750) about IDS
+- 📚 I'm a BSc in **Cyber Security** at the **University of Milan**.
+- 🌱 I'm growing a community related to my website **[corsiuniversitari.info](www.corsiuniversitari.info)**.
 - 💬 Ask me about **SEO**, **Web Development**, **Home Lab**, **Data Science**, and of course **GIS**.
 - 📫 How to reach me: **corsiuniversitari@ludotosk.it** or **[LinkedIn](https://www.linkedin.com/in/ludotosk/)**.
 
